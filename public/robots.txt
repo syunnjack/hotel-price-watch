@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hotelpricewatch.jp/sitemap.xml

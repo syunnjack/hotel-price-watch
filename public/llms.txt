@@ -1,0 +1,7 @@
+# Hotel Price Watch
+
+指定エリア、日程、条件の空室と値下げを通知し、予約アフィリエイトと有料ウォッチへ誘導する宿泊アラート。
+
+Notification channels: LINE, X, email, Slack
+Revenue: ホテル予約成果報酬, 有料ウォッチ, 広告枠, 旅行保険送客, メールスポンサー
+Primary categories: 空室, 値下げ, 週末, イベント, 直前割
