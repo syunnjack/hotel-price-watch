@@ -8,7 +8,7 @@ Recommended repository name: `hotel-price-watch`
 
 ## Domain candidates
 
-First candidate: `hotelpricewatch.jp`
+Confirmed domain: `hotelpricewatch.jp`
 
 Other candidates:
 
