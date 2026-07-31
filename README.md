@@ -8,11 +8,11 @@ Recommended repository name: `hotel-price-watch`
 
 ## Domain candidates
 
-Confirmed domain: `hotelpricewatch.jp`
+Confirmed domain: `https://syunnjack.github.io/hotel-price-watch/`
 
 Other candidates:
 
-- `hotelpricewatch.jp`
+- `https://syunnjack.github.io/hotel-price-watch/`
 - `stayprice.jp`
 - `akiyasu.jp`
 - `hotelalert.jp`
